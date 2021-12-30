@@ -1,0 +1,57 @@
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 20px;
+
+
+}
+li a {
+
+	color: antiquewhite;
+	text-decoration: none;
+	font-family: monsterrat;
+}
+
+li a:hover {
+
+	color: black;
+}
+
+
+
+nav
+{
+
+background-color: red;
+padding: 7px;
+
+}
+
+footer{
+	background-color: lightgrey;
+
+	text-align: center;
+}
+
+img {
+	margin-left: 100px;
+	margin-top: 100px;
+ 
+	
+	}
+
+	button {
+		color: white;
+		background-color: red;
+		padding: 10px;
+		margin-left: 240px;
+		
+	}
+
+	
+	}
+	section {
+		background-color: lightgoldenrodyellow;
+	}
